@@ -437,6 +437,7 @@ header {
 	color: #fff;
 	background-attachment: fixed;
 	background-size: cover;
+	margin-bottom: 5rem;
 }
 
 .testimonila-block {
@@ -612,7 +613,7 @@ header {
 
 
 .get-in-touch-section {
-	height: 55rem;
+	height: 57rem;
 	margin: auto;
 	width: 50%;
 	display: flex;
